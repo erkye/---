@@ -1,0 +1,33 @@
+body{
+	text-align: center;
+}
+
+.bgimg{
+	 background-image: url(../img/bg1.jpg);
+	 width: 100%;
+	 height: 1080px;
+}
+
+.table1{
+	 background-color: white;
+	 width: 400px;
+	 height: 400px;
+	 opacity: 0.4;
+	 position: absolute;
+	 top: 320px;
+	 left: 750px;
+}
+.userinput{
+	position: absolute;
+	top: 400px;
+	left: 820px;
+}
+.butt{
+	opacity: 0.8;
+}
+.newuser{
+	position: relative;
+	top: 60px;
+	color: #1f024c;
+	size: a5;
+}

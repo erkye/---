@@ -1,0 +1,101 @@
+.bgimg{
+	 background-image: url(../img/bg1.jpg);
+	 width: 100%;
+	 height: 1080px;
+}
+.table1{
+	 background-color: white;
+	 width: 800px;
+	 height: 600px;
+	 opacity: 0.4;
+	 position: absolute;
+	 top: 260px;
+	 left: 550px;
+}
+.userinput{
+	position: absolute;
+	top: 260px;
+	left: 570px;
+}
+.uname{
+	background-color: seashell; 
+	border-color: slategray; 
+	color: dimgrey;
+	width: 100px;
+}
+.input1{
+	position: relative;
+	top: 60px;
+	left: 200px;
+}
+.input2{
+	position: relative;
+	top: 80px;
+	left: 200px;
+}
+.input3{
+	position: relative;
+	top: 100px;
+	left: 200px;
+}
+.input4{
+	position: relative;
+	top: 120px;
+	left: 200px;
+}
+.input5{
+	position: relative;
+	top: 140px;
+	left: 200px;
+}
+.input6{
+	position: relative;
+	top: 160px;
+	left: 200px;
+}
+.butt{
+	position: relative;
+	top: 220px;
+	left: 320px;
+}
+.bre{
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 235px;
+	left: 340px;
+}
+#usernamespan{
+	position: absolute;
+	top: 405px;
+	left: 1070px;
+}
+#passwordspan{
+	position: absolute;
+	top: 460px;
+	left: 1070px;
+}
+#repasswordspan{
+	position: absolute;
+	top: 515px;
+	left: 1070px;
+}
+#emailspan{
+	position: absolute;
+	top: 570px;
+	left: 1070px;
+}
+#telspan{
+	position: absolute;
+	top: 625px;
+	left: 1070px;
+}
+#namespan{
+	position: absolute;
+	top: 675px;
+	left: 1070px;
+}
+.smallimg{
+	width: 20px;
+	height: 20px;
+}

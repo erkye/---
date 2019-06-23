@@ -1,0 +1,28 @@
+package com.li.domain;
+
+/**
+ * 用户登录时上传上来的bean
+ * @author 11699
+ *
+ */
+public class UserBean {
+
+	private String username;
+	private String password;
+	
+	
+	public String getUsername() {
+		return username;
+	}
+	public void setUsername(String username) {
+		this.username = username;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	
+	
+}
